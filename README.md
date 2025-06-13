@@ -78,7 +78,7 @@ python app.py
   - **Chọn ngành** để xem tổng hợp và so sánh chỉ số ngành.
   - **Nhấn “Tạo báo cáo”** để xuất PDF tài chính chuyên nghiệp cho công ty.
   - **Sử dụng tính năng so sánh** để biết công ty mạnh/yếu hơn ngành ở đâu.
-  - **Xem file mẫu PDF**: [Bao\_Cao\_VNM.pdf](https://www.google.com/search?q=./Bao_Cao_VNM.pdf)
+  - **Xem file mẫu PDF**: [Bao\_Cao\_VNM.pdf](./Bao_Cao_VNM.pdf)
 
 -----
 
